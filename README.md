@@ -12,6 +12,9 @@ Collection of softwares and accounts needed prior to joining Binaire
 ### Developers
 **JavaScript**
 1. How to write JS - [https://github.com/Shopify/javascript](https://github.com/Shopify/javascript)
+2. Cache website content using Service-Workers
+3. Push compute heavy code to Web-workers
+4. Auto update Copyright Year in websites
 
 **Machine Learning Engineers**
 1. Create Hugging Face accounts - [https://huggingface.co/](https://huggingface.co/)
