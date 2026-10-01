@@ -8,6 +8,8 @@ Collection of softwares and accounts needed prior to joining Binaire
 2. GitHub Desktop - [https://desktop.github.com/download/](https://desktop.github.com/download/)
 3. Excalidraw - [https://excalidraw.com/](https://excalidraw.com/)
 4. Irix HDR - provided by us at time of joining
+5. Anytype - [https://anytype.io/](https://anytype.io/
+6. 
 
 ### Developers
 **JavaScript**
